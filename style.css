@@ -27,7 +27,7 @@ body{
 
 h1,h2,h3{
   color:var(--theme-color);
-  border-bottom:dashed0.1em var(--theme-color);
+  border-bottom:dashed 0.1em var(--theme-color);
 }
 
 /* --------------------
@@ -68,7 +68,7 @@ tr:nth-child(2n){
   background-color:#f9f9f9;
 }
 th{
-  backgroung:var(--theme-color);
+  background:var(--theme-color);
   color:#fff;
 }
 th,td{
